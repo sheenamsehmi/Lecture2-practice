@@ -1,0 +1,11 @@
+from ast import If
+
+
+If
+
+i = 10
+if 10 > 15:
+    print(" 10 is greater than 15")
+
+# else: false
+    print(" 10 is less than 15")    
